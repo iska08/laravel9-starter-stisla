@@ -62,7 +62,6 @@
                                                 </a>
                                             </div>
                                         </div>
-                                        <!-- <label class="font-weight-bold text-uppercase">Password</label> -->
                                         <input type="password" name="password"
                                             class="form-control @error('password') is-invalid @enderror"
                                             placeholder="Masukkan Password">
